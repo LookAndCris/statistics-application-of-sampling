@@ -1,2 +1,2 @@
 ## Getting Started
-Simple App Statistics
+Simple App # seo-ia
